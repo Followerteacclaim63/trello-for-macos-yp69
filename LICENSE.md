@@ -1,4 +1,4 @@
-#  
+#  Trello for macOS custom Tool: focus mode & offline access is the best Trello for macOS tool, featuring focus mode and offline access. Safe, efficient, and optimized for macOS
 
 
 
